@@ -107,3 +107,4 @@ class Grad {
 }
 
 export default Noise;
+
