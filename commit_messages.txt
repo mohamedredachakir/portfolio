@@ -1,0 +1,30 @@
+Setup Astro project structure and configuration
+Initialize global styles, variables, and SCSS helpers
+Add core typography and font assets
+Implement responsive grid system layout
+Create basic component architecture
+Set up GSAP and Lenis for smooth animations
+Develope layout components (head, foot, scrollbar)
+Implement custom event emitter utility
+Create ticker utility for animation loops
+Add noise effect for visual texture
+Build SiteHead component with navigation
+Implement theme toggle functionality
+Design SHero component with split-text animations
+Add wave background effects to hero section
+Build SAbout component structure
+Integrate skills data and animations in About
+Develop SWork component for project showcase
+Implement video masking and hover effects in Work
+Create SMyWay component with interactive frames
+Add draggable physics to SMyWay elements
+Design SCTA component with contact info
+Implement QR code and availability status
+Add footer component with custom SVG branding
+Integrate social links and customized icons
+Optimize meta tags for SEO and sharability
+Configure project for deployment
+Final polish of UI animations and transitions
+Clean up code and add comments
+Refactor component logic for better performance
+Update README and license files
