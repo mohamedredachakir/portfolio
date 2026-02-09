@@ -48,3 +48,4 @@ class Ticker {
 }
 
 export default new Ticker()
+
